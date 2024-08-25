@@ -1,0 +1,13 @@
+.todoHeading{
+    font-size: 80px;
+    color: brown;
+    display: block;
+}
+.kg-row{
+   width: 30%;
+
+}
+.kg-button{
+    display: block;
+    float: left;
+}
